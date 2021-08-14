@@ -91,7 +91,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
-		<finalName>springboot-aws-lambda</finalName>
+		<finalName>serebro</finalName>
 	</build>
 
 </project>
